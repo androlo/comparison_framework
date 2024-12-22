@@ -8,11 +8,9 @@ This is the repository of the Comparison Framework, a system for creating struct
 
 If you have every asked yourself questions such as:
 
-Why does the SI system look the way it looks? 
+Why does the SI system look the way it looks? Why are there dimensions like length and time in physics equations? Where do they come from? Why can we do certain things with units like the meter and the second, and certain things not? Why can't we add them? How come there are composite units?
 
-Why are there dimensions like length and time in physics equations? Where do they come from? Why can we do certain things with units like the meter and the second, and certain things not? Why can't we add them? How come there are composite units?
-
-This system provides deep but rather simple answers to all such questions.
+This system provides deep but rather simple answers to all such questions, and by doing so it also allows its client to create models from measurement data in a way that is logically sound.
 
 ## Copyright Information
 
