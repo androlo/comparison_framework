@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the repository of the Comparison Framework, a system for creating structural physics models.
+This is the repository of the Comparison Framework, the blueprint for a system that is used to create structural physics models from measurement data.
 
 If you have every asked yourself questions such as:
 
