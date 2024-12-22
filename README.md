@@ -18,7 +18,7 @@ The text and underlying material in this document is free to use, just as any ot
 
 ## Downloading and Versioning
 
-The most recent document is always available in the downloads section. 
+The most recent document is always available in the [Releases section](https://github.com/androlo/comparison_framework/releases). 
 
 The document is versioned, meaning you can always look at the front page of your document and compare the version with the version of the most recently published document to see if it is up to date. It will have the label "draft", and versions of the form 0.X.Y, until the first edition. Afterwards, it will have versions of the form X.Y.Z where X is the edition number (e.g., the first edition will have edition number 1). 
 
