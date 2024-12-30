@@ -58,7 +58,7 @@ This chapter should be mostly fine, but it is also rather new.
 
 ### Chapter 13
 
-This is the most recent chapter, and, much like the previous chapter on dimensional analysis.
+This is the most recent chapter, and will therefore likely have the most issues.
 
 ### Appendices
 
