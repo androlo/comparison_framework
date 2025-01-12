@@ -24,6 +24,10 @@ The document is versioned, meaning you can always look at the front page of your
 
 About the progress of the document: The first draft version that was made public had version 0.16.0, so if the current version is 0.18.5 at some point, that means the document has gone through two larger revisions and then five smaller fixes after that.
 
+There is also a video course on Youtube that explains the paper in more detail. These videos will be improved and replaced with better and better videos with time. [link](https://www.youtube.com/@andreasolofsson950/playlists)
+
+There is also a workbook in progress, that has a number of exercises for each chapter. It will likely be published some time in spring/summer of 2025.
+
 ## About the State of the Document
 
 This document is still considered a draft, and should be considered a "beta version" of the framework. The material is in place, and it has undergone several automated spellchecks, as well as several reviews by the author (over its 6-7 years of development), but it has not yet been finalized and reviewed by others.
