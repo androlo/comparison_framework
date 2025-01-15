@@ -24,15 +24,9 @@ The document is versioned, meaning you can always look at the front page of your
 
 About the progress of the document: The first draft version that was made public had version 0.16.0, so if the current version is 0.18.5 at some point, that means the document has gone through two larger revisions and then five smaller fixes after that.
 
-There is also a video course on Youtube that explains the paper in more detail. These videos will be improved and replaced with better and better videos with time. [link](https://www.youtube.com/@andreasolofsson950/playlists)
-
-There is also a workbook in progress, that has a number of exercises for each chapter. It will likely be published some time in spring/summer of 2025.
-
 ## About the State of the Document
 
-This document is still considered a draft, and should be considered a "beta version" of the framework. The material is in place, and it has undergone several automated spellchecks, as well as several reviews by the author (over its 6-7 years of development), but it has not yet been finalized and reviewed by others.
-
-The author is thus looking for people who can help by pointing out errors in the text such as typos, and mistakes in the calculations. At this point, the author feels like the documents states everything he wants it to state, and he's essentially just developing in circles, adding material, removing, re-adding, re-formulating, and so on, so it is good time to start an official beta.
+This document is still considered a draft, and should be seen as containing a "beta version" of the framework.
 
 ## How to Report Errors
 
@@ -68,4 +62,4 @@ This is the most recent chapter, and will therefore likely have the most issues.
 
 The "special unit functions" and "algebraic structures" appendices are still in progress. The protocol appendix has only been added in as a placeholder.
 
-The proofs should be mostly sound, but could certainly need some more massaging.
+The proofs should be mostly sound, but could need some more massaging.
