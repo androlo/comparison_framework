@@ -12,6 +12,10 @@ Why does the SI system look the way it looks? Why are there dimensions like leng
 
 This system provides deep but rather simple answers to all such questions, and by doing so it also allows its client to create models from measurement data in a way that is logically sound.
 
+The system also generates all of its models from datasets, including units and dimensions and such, unlike the SI system where units and dimensions and such are prepared in advance, and datasets has to be squeezed into this already prepared mold. Additionally, the generation of these system is done in a completely transparent way, and everything that the system contains can be traced back to the dataset. It does not use any esoteric quantity calculus, only regular algebra, functions, and graph theory. It takes a bit more effort to work with, but it is more versatile and more configurable; thus, one can think of it as "the Linux of physics data processing frameworks".
+
+In addition to this, the comparison framework document contains a lot of important principles for how to work with measurements generally, as well as some of the philosophy that goes into measurements and measurement processing. It also goes into the history of physics measurements, in passing, and how data processing has evolved from the time of the ancient Greeks.
+
 ## Copyright Information
 
 The text and underlying material in this document is free to use, just as any other scientific work, under the ordinary rules of academic integrity. The images, however, are copyrighted by their creators (via Shutterstock) and can therefore not be used freely. It is allowed to download the document, and read it, and to keep copies, and to extract text, but it is not allowed to extract the images from the documents and to use them for other purposes, because that is in violation with the copyright policy of Shutterstock.
