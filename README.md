@@ -14,7 +14,7 @@ This system provides deep but rather simple answers to all such questions, and b
 
 The system also generates every part of its models from datasets, including units and dimensions and such, unlike the SI system where units and dimensions and such are prepared in advance, and datasets has to be squeezed into their already prepared mold. Additionally, the generation of these models is done in a completely transparent way, and everything that the model contains can be traced back to the dataset. Furthermore, the system does not rely on quantity calculus but relies completely on elementary algebra, linear algebra, function theory, and graph theory. All in all, it requires a bit more effort from the client, but it is more versatile and more configurable; thus, one can think of it as "the Linux of physics data processing frameworks".
 
-In addition to this, the comparison framework document contains a lot of important principles for how to work with measurements generally, as well as some of the philosophy that goes into measurements and measurement processing. It also goes a little bit into the history of physics measurements and how data processing has evolved from the time of the ancient Greeks. All in all, the document contains a thorough study of the fascinating space where the physical and the abstract meet.
+In addition to this, the document contains a few sections on the philosophy of measurements and measurement processing, and also goes a little bit into the history of physics measurements and how data processing has evolved from the time of the ancient Greeks. All in all, the document contains a thorough study of the fascinating space where the physical and the abstract meet.
 
 ## Downloading and Versioning
 
