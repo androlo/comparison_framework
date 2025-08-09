@@ -14,11 +14,7 @@ This system provides deep but rather simple answers to all such questions, and b
 
 The system also generates every part of its models from datasets, including units and dimensions and such, unlike the SI system where units and dimensions and such are prepared in advance, and datasets has to be squeezed into their already prepared mold. Additionally, the generation of these models is done in a completely transparent way, and everything that the model contains can be traced back to the dataset. Furthermore, the system does not rely on quantity calculus but relies completely on elementary algebra, linear algebra, function theory, and graph theory. All in all, it requires a bit more effort from the client, but it is more versatile and more configurable; thus, one can think of it as "the Linux of physics data processing frameworks".
 
-In addition to this, the comparison framework document contains a lot of important principles for how to work with measurements generally, as well as some of the philosophy that goes into measurements and measurement processing. It also goes into the history of physics measurements, in passing, and how data processing has evolved from the time of the ancient Greeks.
-
-## Copyright Information
-
-The text and underlying material in this document is free to use, just as any other scientific work, under the ordinary rules of academic integrity. The images, however, are copyrighted by their creators (via Shutterstock) and can therefore not be used freely. It is allowed to download the document, and read it, and to keep copies, and to extract text, but it is not allowed to extract the images from the documents and to use them for other purposes, because that is in violation with the copyright policy of Shutterstock.
+In addition to this, the comparison framework document contains a lot of important principles for how to work with measurements generally, as well as some of the philosophy that goes into measurements and measurement processing. It also goes into the history of physics measurements, in passing, and how data processing has evolved from the time of the ancient Greeks. All in all, the book is a thorough treatment of the fascinating space where the physical and the abstract meet.
 
 ## Downloading and Versioning
 
@@ -27,6 +23,11 @@ The most recent document is always available in the [Releases section](https://g
 The document is versioned, meaning you can always look at the front page of your document and compare the version with the version of the most recently published document to see if it is up to date. It will have the label "draft", and versions of the form 0.X.Y, until the first edition. Afterwards, it will have versions of the form X.Y.Z where X is the edition number (e.g., the first edition will have edition number 1). 
 
 About the progress of the document: The first draft version that was made public had version 0.16.0, so if the current version is 0.18.5 at some point, that means the document has gone through two larger revisions and then five smaller fixes after that.
+
+
+## Copyright Information
+
+The text and underlying material in this document is free to use, just as any other scientific work, under the ordinary rules of academic integrity. The images, however, are copyrighted by their creators (via Shutterstock) and can therefore not be used freely. It is allowed to download the document, and read it, and to keep copies, and to extract text, but it is not allowed to extract the images from the documents and to use them for other purposes, because that is in violation with the copyright policy of Shutterstock.
 
 ## About the State of the Document
 
