@@ -2,19 +2,67 @@
 
 ![newton.jpg](newton.jpg)
 
-## Introduction
+### Build structural physics models directly from measurement data.
 
-This is the repository of the Comparison Framework, a blueprint for a system that is used to create structural physics models from measurement data.
+The Comparison Framework is a blueprint for constructing structural physics models from raw measurements. It is similar to the SI, but instead of assuming units and dimensions up front it derives them from the data itself, with full provenance and transparency.
 
-If you have every asked yourself questions such as:
+### What questions does it answer?
 
-Why does the SI system look the way it looks? Why are there dimensions like length and time in physics equations? Where do they come from? Why can we do certain things with units like the meter and the second, and certain things not? Why can't we add them? How come there are composite units?
+If you’ve ever asked:
 
-This system provides deep but rather simple answers to all such questions, and by doing so it also allows its client to create models from measurement data in a way that is logically sound.
+*Why does the SI system look the way it does?*
 
-The system also generates every part of its models from datasets, including units and dimensions and such, unlike the SI system where units and dimensions and such are prepared in advance, and datasets has to be squeezed into their already prepared mold. Additionally, the generation of these models is done in a completely transparent way, and everything that the model contains can be traced back to the dataset. Furthermore, the system does not rely on quantity calculus but relies completely on elementary algebra, linear algebra, function theory, and graph theory. All in all, it requires a bit more effort from the client, but it is more versatile and more configurable; thus, one can think of it as "the Linux of physics data processing frameworks".
+*Why do dimensions like length and time appear in equations—where do they come from?*
 
-In addition to this, the document contains a few sections on the philosophy of measurements and measurement processing, and also goes a little bit into the history of physics measurements and how data processing has evolved from the time of the ancient Greeks. All in all, the document contains a thorough study of the fascinating space where the physical and the abstract meet.
+*What can and can’t we do with units (e.g., why can’t we add meters and seconds)?*
+
+*Why do composite units arise?*
+
+…the framework provides clear, rigorous, and surprisingly simple answers grounded in elementary mathematics.
+
+### Core ideas
+
+#### Data-first units & dimensions
+Units, dimensions, and related structures are generated from datasets, not prescribed in advance.
+
+#### Transparent provenance
+Every element of a model can be traced back to the originating data. The generation process is auditable end-to-end.
+
+#### Mathematical simplicity
+Relies on elementary algebra, linear algebra, function theory, and graph theory—not on quantity calculus.
+
+#### Flexibility over convenience
+It asks a bit more from the client but is more versatile and configurable—think of it as “the Linux of physics data processing frameworks.”
+
+### Why it matters
+
+By deriving structure from data, the framework gives principled answers to how dimensions and units emerge and behave. This lets you build logically sound models that respect what the data can (and cannot) support.
+
+### How it differs from SI
+
+SI: Dimensions and units are fixed beforehand; datasets must conform.
+
+Comparison Framework: Dimensions and units are inferred from relationships in the data, with explicit justification and traceability.
+
+The result is not a rejection of SI but a complementary approach that exposes the logical foundations SI rests on—and broadens them.
+
+### When to use it
+
+You need reproducible, inspectable model generation from measurements.
+
+You want to avoid hard-coding unit systems and instead infer structure.
+
+You care about the logic underpinning units, dimensions, and composite quantities.
+
+### What it’s not
+
+A drop-in replacement for the SI system in all contexts.
+
+A black box. The emphasis is on clarity and traceable construction, not opaque convenience.
+
+### Philosophy & background (optional reading)
+
+The repository includes short essays on the philosophy of measurement, the processing of measurements, and some history of how physics handled data—from the ancient Greeks to modern practice. These sections explore the boundary where physical observation meets abstract structure, and how modeling choices shape what we can claim from data.
 
 ## Downloading and Versioning
 
