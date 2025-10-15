@@ -4,7 +4,7 @@
 
 ### Build structural physics models directly from measurement data.
 
-The Comparison Framework is a blueprint for constructing structural physics models from raw measurements. It is similar to the SI, but instead of assuming units and dimensions up front it derives them from the data itself, with full provenance and transparency.
+The Comparison Framework (SI 2.0) is a blueprint for constructing structural physics models from raw measurements. It is similar to the SI, but instead of assuming units and dimensions up front it derives them from the data itself, with full provenance and transparency. It also extends a lot of the SI's functionality.
 
 ### What questions does it answer?
 
@@ -18,7 +18,7 @@ If you’ve ever asked:
 
 *Why do composite units arise?*
 
-…the framework provides clear, rigorous, and surprisingly simple answers grounded in elementary mathematics.
+…the framework provides clear, rigorous, and simple answers grounded in elementary mathematics.
 
 ### Core ideas
 
@@ -68,14 +68,19 @@ The repository includes short essays on the philosophy of measurement, the proce
 
 The most recent document is always available in the [Releases section](https://github.com/androlo/comparison_framework/releases). 
 
-The document is versioned, meaning you can always look at the front page of your document and compare the version with the version of the most recently published document to see if it is up to date. It will have the label "draft", and versions of the form 0.X.Y, until the first edition. Afterwards, it will have versions of the form X.Y.Z where X is the edition number (e.g., the first edition will have edition number 1). 
+The document is versioned, meaning you can always look at the front page of your document and compare with the most recently published document to see if it is up to date. It will have the label "draft", and versions of the form 0.X.Y, until the first edition. Afterwards, it will have versions of the form X.Y.Z where X is the edition number (e.g., the first edition will have edition number 1). During the draft, the whole document is being worked on, but later it will have new contents added in sections, with clear version docs stating what has been added.
 
-About the progress of the document: The first draft version that was made public had version 0.16.0, so if the current version is 0.18.5 at some point, that means the document has gone through two larger revisions and then five smaller fixes after that.
+There is no reason to have anything but the latest version.
 
+About the progress of the document: The first draft version that was made public had version 0.16.0, so if the current version is 0.18.5 at some point, that means the document has gone through two larger revisions and then five smaller fixes after that. As of right now (0.17), the document will probably go to 1.0 after 0.18.
+
+## Contributing
+
+Errors can be reported in the issue tracker. Be sure to include what's wrong, and some reference to where the problem is (ideally the document version and page number). No need to bother with tags unless you want to.
 
 ## Copyright Information
 
-The text and underlying material in this document is free to use, just as any other scientific work, under the ordinary rules of academic integrity. The images, however, are copyrighted by their creators (via Shutterstock) and can therefore not be used freely. It is allowed to download the document, and read it, and to keep copies, and to extract text, but it is not allowed to extract the images from the documents and to use them for other purposes, because that is in violation with the copyright policy of Shutterstock.
+The text and underlying material in this document is free to use, just as any other scientific work, under the ordinary rules of academic integrity. The images, however, are copyrighted by their creators (via Shutterstock/iStock/etc.) and can therefore not be used freely. It is allowed to download the document, and read it, and to keep copies, and to extract text, but it is not allowed to extract the images from the documents and to use them for other purposes.
 
 ## About the State of the Document
 
@@ -87,32 +92,20 @@ Use the issue tracker in this repository. There is no need to use alternative fl
 
 ## Overview of the Different Chapters and Their States
 
-### Chapters 1 to 7
+### Chapters 1 to 11
 
-These chapters should be in mostly good order.
-
-### Chapter 8
-
-This is a chapter that speaks mostly about the SI system and some of its math, and it kind of sticks out from the rest of the document; however, it should be in good order.
-
-### Chapter 9 and 10
-
-These chapters should be in mostly good order.
-
-### Chapter 11
-
-This chapter should be in mostly good order, except it was added in rather recently.
+Aside from a few snags, these chapters should be in good order.
 
 ### Chapter 12
 
-This chapter should be mostly fine, but it is also rather new.
+This chapter should be mostly fine, but it is rather new.
 
 ### Chapter 13
 
-This is the most recent chapter, and will therefore likely have the most issues.
+This chapter needs some more contents.
 
 ### Appendices
 
-The "special unit functions" and "algebraic structures" appendices are still in progress. The protocol appendix has only been added in as a placeholder.
+The "special unit functions" and "algebraic structures" appendices are still in progress. The protocol appendix has only been added in as a placeholder. They might be removed for the first edition.
 
-The proofs should be mostly sound, but could need some more massaging.
+The proofs should be sound, but needs improvement.
