@@ -10,13 +10,17 @@ The Comparison Framework (SI 2.0) is a blueprint for constructing structural phy
 
 If you’ve ever asked:
 
+*What is a physical unit?*
+
 *Why does the SI system look the way it does?*
 
-*Why do dimensions like length and time appear in equations—where do they come from?*
+*What are dimensions like length and time, and why do they appear in equations?*
 
 *What can and can’t we do with units (e.g., why can’t we add meters and seconds)?*
 
 *Why do composite units arise?*
+
+*Why do we need dimensional balance?*
 
 …the framework provides clear, rigorous, and simple answers grounded in elementary mathematics.
 
