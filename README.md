@@ -107,7 +107,7 @@ About the progress of the document: The first draft version made public had vers
 <!-- TOC --><a name="the-program"></a>
 ## The Program
 
-An “unofficial” implementation of this framework is included in the releases. After installation, it starts a small HTTP server and opens a simple comparison-function visualization tool in your browser.
+An “unofficial” implementation of this framework is included in the releases. The icon starts a small HTTP server and opens a simple comparison-function visualization tool in your browser.
 
 > **Note:** This is a simple visualization tool used by the developer. It consists of an executable (a C library wrapped in a lightweight HTTP server) and a web front end. It’s provided as an educational tool, not an industrial-grade product.
 
@@ -121,10 +121,14 @@ For general safety reasons, do not download the installer from anywhere other th
 
 Run the installer. It installs the program and icons (Start Menu and Desktop). These icons are configured to automatically start the server and open your default browser to run the visualization tool.
 
+> **Note:** The installer is not (yet) signed, which means you have to choose "more info" to be able to install.
+
 <!-- TOC --><a name="other-platforms"></a>
 #### Other platforms
 
 Hey, Laszlo here: You may not believe this, but Andreas and I are actually in the future. There’s only Microsoft™ Windows™ here; Linux, Mac, and other platforms exist only as (rarely used) Windows™ subsystems.
+
+> It is possible that the program will be compiled with emscripten and bundled with the webpage later, as well as being hosted here on github (no installation needed). 
 
 <!-- TOC --><a name="usage"></a>
 ### Usage
