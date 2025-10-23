@@ -96,7 +96,7 @@ The repository includes short essays on the philosophy of measurement, the proce
 <!-- TOC --><a name="downloading-and-versioning"></a>
 ## Downloading and Versioning
 
-The most recent document (and program) is always available in the [Releases section](https://github.com/androlo/comparison_framework/releases).
+The most recent document (compfram.pdf) is always available in the [Releases section](https://github.com/androlo/comparison_framework/releases).
 
 The document is versioned, meaning you can always look at the front page of your document and compare it with the most recently published document to see if it is up to date. It will have the label "draft," and versions of the form 0.X.Y, until the first edition. Afterward, it will have versions of the form X.Y.Z where X is the edition number (e.g., the first edition will have edition number 1). During the draft, the whole document is being worked on, but later it will have new contents added in sections, with clear version docs stating what has been added.
 
