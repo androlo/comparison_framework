@@ -149,11 +149,11 @@ Report errors in the issue tracker. Please include what’s wrong and where to f
 
 ## Roadmap
 
-The first edition of the document will be released once a few more kinks has been ironed out. There are no plans of adding any new sections, other than maybe a few minor ones that has been postponed for a long time.
+The first edition of the document will be released after some more review, presumably Q1 2026. There will be no new sections, other than maybe a few minor ones.
 
-After the first edition is completed, the document will not just be refined, but it will be separated into two parts: the specification and the educational material. Right now, it is a mixed bag, containing many different things: definitions, some proofs, some learning material, etc. The second version of the document will only contain a "raw" spec, and the educational material will be broken out - either to another document or to an educational webpage (text, interactive material, etc.)
+After the first edition is released, the document will be separated into two parts: the specification and the educational material. Right now it is a mixed bag, containing many different things: definitions, some proofs, some learning material, etc. The second version of the document will only contain the "raw" spec. The educational material will be broken out - either to another document or to an educational webpage (with text, interactive material, etc.)
 
-Thus, one can think of the current doc and implementation as an MVP, or a demonstration. The second iteration will be about making an actual, competitive product.
+One can think of the current doc and implementation as an MVP. The second iteration will be about making an actual, competitive product.
 
 ## Copyright information
 
